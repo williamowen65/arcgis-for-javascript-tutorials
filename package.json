@@ -1,0 +1,20 @@
+{
+  "name": "arcgis-for-javascript-tutorials",
+  "version": "1.0.0",
+  "description": "<p style=\"text-align: center\">I am working through the documentation on this\r page</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamowen65/arcgis-for-javascript-tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamowen65/arcgis-for-javascript-tutorials/issues"
+  },
+  "homepage": "https://github.com/williamowen65/arcgis-for-javascript-tutorials#readme"
+}
